@@ -1,5 +1,5 @@
 <?php
-namespace Cg\Plasgate;
+namespace Sophanon\Plasgate;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\ConnectException;

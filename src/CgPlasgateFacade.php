@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Cg\Plasgate;
+namespace Sophanon\Plasgate;
 
 
 use Illuminate\Support\Facades\Facade;
